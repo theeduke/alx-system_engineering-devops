@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo chmd 753 hello
