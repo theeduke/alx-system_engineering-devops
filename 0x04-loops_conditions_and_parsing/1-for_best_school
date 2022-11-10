@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#Displays "Best School" 10 times using a for loop
+
+for i in range(1,11):
+	print("Best School")
